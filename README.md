@@ -1,3 +1,3 @@
-# AMQP.0-9-1
+# AMQP 0-9-1
 
-A description of this package.
+An implementation of the AMQP 0-9-1 specification (similar to RabbitMQ).
